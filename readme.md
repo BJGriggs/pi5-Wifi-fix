@@ -16,7 +16,7 @@ First, clone the wifi firmware repository:
 
     sudo mv -f * /lib/firmware/brcm/
     
-# When the Raspberry Pi 5 boots, it looks for firmware names with model names like raspberry,5-model-b. Hence, we need to create symlinks for the firmware files. Ensure that you have the following symlinks:
+# When the Raspberry Pi 5 boots, it looks for firmware names with model names like raspberry,5-model-b. Check the following.
 
     reboot, heck to see if wlan0 is up as whell as check for any brcm errors in dmesg
 
