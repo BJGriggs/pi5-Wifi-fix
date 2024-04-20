@@ -18,7 +18,7 @@ First, clone the wifi firmware repository:
     
 # When the Raspberry Pi 5 boots, it looks for firmware names with model names like raspberry,5-model-b. Check the following.
 
-    reboot, heck to see if wlan0 is up as whell as check for any brcm errors in dmesg
+    reboot, check to see if wlan0 is up as whell as check for any brcm errors in dmesg
 
 # Orginal credit
     https://wiki.gentoo.org/wiki/Raspberry_Pi_Install_Guide#Raspberry_Pi_5_WiFi.2FBluetooth_Firmware
