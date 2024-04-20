@@ -30,3 +30,6 @@ First, clone the wifi firmware repository:
     lrwxrwxrwx 1 root root     22 Jan 21 12:24 brcmfmac43455-sdio.raspberrypi,5-model-b.txt -> brcmfmac43455-sdio.txt
     -rw-r--r-- 1 root root   2074 Jan 21 12:19 brcmfmac43455-sdio.txt
 
+
+# Orginal credit
+    https://wiki.gentoo.org/wiki/Raspberry_Pi_Install_Guide#Raspberry_Pi_5_WiFi.2FBluetooth_Firmware
